@@ -1,0 +1,1 @@
+curl http://p.nju.edu.cn/portal_io/logout -X GET
